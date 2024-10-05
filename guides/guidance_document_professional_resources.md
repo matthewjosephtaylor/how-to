@@ -15,14 +15,14 @@
 ---
 
 ## 1. Certified Public Accountant (CPA)
-- **Objective:** Find a CPA who can help manage and optimize your wealth, handle tax strategies for Bitcoin, and guide ongoing portfolio diversification in alignment with your vision.
+- **Objective:** Find a CPA who can help manage and optimize your wealth, handle tax strategies for Assets, and guide ongoing portfolio diversification in alignment with your vision.
 - **Skills and Expertise Required:**
   - **Cryptocurrency Taxation:** In-depth knowledge of tax laws related to cryptocurrency transactions.
   - **Investment Strategies:** Experience with diversified portfolio management, focusing on data-driven risk reduction.
   - **Aggressive Tax Minimization:** Skilled in identifying and implementing strategies to legally minimize tax payments.
   - **Flexible Communication:** Willing to engage primarily through chat (Slack, Discord) and provide quarterly video updates summarizing the financial landscape and portfolio health.
 - **Current and Potential Services:**
-  - **Current Needs:** Tax strategy for Bitcoin, portfolio review, annual tax filing, and risk management.
+  - **Current Needs:** Tax strategy for Assets, portfolio review, annual tax filing, and risk management.
   - **Future/Potential Needs:** Insurance planning, retirement planning, optimizing charitable giving, and ongoing research into new tax-saving opportunities.
   - **Creative Uses:** Develop strategies for structuring investments to "tax the government" effectively, using aggressive, legally sound tactics.
 - **Professional Engagement:** A high-caliber CPA is driven by the intellectual challenge of navigating complex tax systems and delivering measurable results. Success in reducing tax burdens positions them as a leading expert.
@@ -76,7 +76,7 @@
 
 ### Best Practices for Engagement:
 - **Set Clear Boundaries:** Establish expectations upfront, emphasizing a preference for flexible, chat-based communication, email for formal exchanges, and quarterly video updates.
-- **Project Initiation:** Begin with specific projects to evaluate fit, such as Bitcoin diversification or setting up a new business venture.
+- **Project Initiation:** Begin with specific projects to evaluate fit, such as Assets diversification or setting up a new business venture.
 - **Regular Check-Ins:** Use email for quarterly summaries and detailed follow-ups while keeping Slack or Discord channels open for ongoing, real-time support.
 - **Efficient Collaboration:** Share documents and updates through secure, organized platforms, maintaining transparency and easy access.
 
