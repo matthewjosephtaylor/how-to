@@ -2,7 +2,6 @@
 
 This is a repository for my current best-practice guiding/governing documents. This will expand and evolve as I learn more.
 
-
 ## Business
 - [Business Mindset Shift](guides/Business_Mindset_Shift.md)
 - [Core Organization Documents](guides/Core_Organization_Documents.md)
@@ -14,3 +13,9 @@ This is a repository for my current best-practice guiding/governing documents. T
 
 ## Project Communication
 - [KanDown Overview](guides/KanDown_Overview.md)
+
+## Personal Development
+- [Balanced and Serene Individual Archetype](personal-development/Balanced_and_Serene_Individual_Archetype.md)
+- [Connector Archetype](personal-development/Connector_Archetype.md)
+- [Lifelong Learner Archetype](personal-development/Lifelong_Learner_Archetype.md)
+- [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
