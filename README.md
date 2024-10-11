@@ -19,3 +19,8 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Connector Archetype](personal-development/Connector_Archetype.md)
 - [Lifelong Learner Archetype](personal-development/Lifelong_Learner_Archetype.md)
 - [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
+
+## Roles
+- [General Developer Competencies](roles/general_developer_competencies.md)
+- [TypeScript Role Competency](roles/typescript_role_competency.md)
+- [Web UI Role Competency](roles/web_ui_role_copetency.md)
