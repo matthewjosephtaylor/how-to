@@ -19,6 +19,7 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Connector Archetype](personal-development/Connector_Archetype.md)
 - [Lifelong Learner Archetype](personal-development/Lifelong_Learner_Archetype.md)
 - [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
+- [Worldly Explorer Archetype](personal-development/Worldly_Explorer_Archetype.md)
 
 ## Roles
 - [General Developer Competencies](roles/general_developer_competencies.md)
