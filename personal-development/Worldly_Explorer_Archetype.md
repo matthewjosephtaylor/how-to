@@ -1,10 +1,6 @@
 
 # Archetype: The Worldly Explorer
 
-**Date**: 2024-11-02
-
----
-
 ## General Description
 
 The Worldly Explorer is a person who moves through life with an insatiable curiosity, embracing new experiences, cultures, and environments with humility and genuine respect. For them, the journey is about more than simply visiting places or meeting people—it's about understanding, immersing, and honoring each moment as a unique and beautiful facet of existence. Each adventure, whether small or grand, is an opportunity to learn, grow, and connect more deeply with the world and themselves.
