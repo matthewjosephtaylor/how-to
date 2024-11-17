@@ -22,8 +22,11 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
 - [Worldly Explorer Archetype](personal-development/Worldly_Explorer_Archetype.md)
 
-## Process
-- [The Path to the Goody](process/The_Path_to_the_Goody.md)
+## Frameworks
+- [Modular Business Framework](frameworks/Modular_Business_Framework.md)
+
+## Processes
+- [The Path to the Goody](processes/The_Path_to_the_Goody.md)
 
 ## Roles
 - [General Developer Competencies](roles/general_developer_competencies.md)
