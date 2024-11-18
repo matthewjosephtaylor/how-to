@@ -26,6 +26,7 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Modular Business Framework](frameworks/Modular_Business_Framework.md)
 
 ## Processes
+- [Hypotheses](processes/Hypotheses.md)
 - [The Path to the Goody](processes/The_Path_to_the_Goody.md)
 
 ## Roles
