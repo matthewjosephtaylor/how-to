@@ -1,0 +1,12 @@
+- daily devlog
+  - aim for entry every 20 min or so
+  - start with a summary of what the plan of the day is
+  - end with a summary of accomplishments and how things went
+  - If possible an interactive demo of progress at end of day or when significant progress is made is a good idea
+- tracking board
+  - bugs where there is a clear 'broken' aspect
+    - clear test for 'fixed'
+  - features where there is a clear 'missing' aspect
+    - guide posts not a checklist
+  - tasks where there is a clear 'to-do' aspect
+- 

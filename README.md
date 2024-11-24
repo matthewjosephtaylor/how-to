@@ -15,6 +15,9 @@ This is a repository for my current best-practice guiding/governing documents. T
 ## Project Communication
 - [KanDown Overview](guides/KanDown_Overview.md)
 
+## Frameworks
+- [Modular Business Framework](frameworks/Modular_Business_Framework.md)
+
 ## Personal Development
 - [Balanced and Serene Individual Archetype](personal-development/Balanced_and_Serene_Individual_Archetype.md)
 - [Connector Archetype](personal-development/Connector_Archetype.md)
@@ -22,14 +25,15 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
 - [Worldly Explorer Archetype](personal-development/Worldly_Explorer_Archetype.md)
 
-## Frameworks
-- [Modular Business Framework](frameworks/Modular_Business_Framework.md)
-
 ## Processes
 - [Hypotheses](processes/Hypotheses.md)
 - [The Path to the Goody](processes/The_Path_to_the_Goody.md)
+- [Dev Process](processes/dev-process.md)
 
 ## Roles
 - [General Developer Competencies](roles/general_developer_competencies.md)
 - [TypeScript Role Competency](roles/typescript_role_competency.md)
 - [Web UI Role Competency](roles/web_ui_role_competency.md)
+
+## Systems
+- [Assistant Operating System](systems/Assistant%20Operating%20System.md)
