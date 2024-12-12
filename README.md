@@ -11,6 +11,7 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Key People for Organization](guides/Key_People_for_Organization.md)
 - [Partnership Building System](guides/Partnership_Building_System.md)
 - [Travel Wardrobe Guide](guides/Travel_Wardrobe_Guide.md)
+- [What is Needed in a Statement of Work (SOW)](guides/What%20is%20Needed%20in%20a%20Statement%20of%20Work%20(SOW).md)
 
 ## Project Communication
 - [KanDown Overview](guides/KanDown_Overview.md)
@@ -36,5 +37,11 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [TypeScript Role Competency](roles/typescript_role_competency.md)
 - [Web UI Role Competency](roles/web_ui_role_competency.md)
 
+## SOWs
+- [Statement of Work IIIF Image Data](sows/Statement_of_Work_IIIF_Image_Data.md)
+
 ## Systems
 - [Assistant Operating System](systems/Assistant%20Operating%20System.md)
+
+## Templates
+- [Objective](templates/objective.md)
