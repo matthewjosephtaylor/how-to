@@ -10,11 +10,14 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Guidance Document: Professional Resources](guides/guidance_document_professional_resources.md)
 - [Key People for Organization](guides/Key_People_for_Organization.md)
 - [Partnership Building System](guides/Partnership_Building_System.md)
-- [Travel Wardrobe Guide](guides/Travel_Wardrobe_Guide.md)
-- [What is Needed in a Statement of Work (SOW)](guides/What%20is%20Needed%20in%20a%20Statement%20of%20Work%20(SOW).md)
 
-## Project Communication
+## Living & Travel
+- [Home Design Guide](guides/Home_Design_Guide.md)
+- [Travel Wardrobe Guide](guides/Travel_Wardrobe_Guide.md)
+
+## Project Management
 - [KanDown Overview](guides/KanDown_Overview.md)
+- [What is Needed in a Statement of Work (SOW)](guides/What%20is%20Needed%20in%20a%20Statement%20of%20Work%20(SOW).md)
 
 ## Frameworks
 - [Modular Business Framework](frameworks/Modular_Business_Framework.md)
