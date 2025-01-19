@@ -27,8 +27,11 @@ This is a repository for my current best-practice guiding/governing documents. T
 - [Connector Archetype](personal-development/Connector_Archetype.md)
 - [Get To Archetype](personal-development/Get_To_Archetype.md)
 - [Lifelong Learner Archetype](personal-development/Lifelong_Learner_Archetype.md)
+- [Performer Archetype](personal-development/Performer_Archetype.md)
 - [Visionary Creator Archetype](personal-development/Visionary_Creator_Archetype.md)
 - [Worldly Explorer Archetype](personal-development/Worldly_Explorer_Archetype.md)
+- [Teacher Archetype (TBD)](personal-development/Teacher_Archetype.md)
+- [Simplifier Archetype (TBD)](personal-development/Simplifier_Archetype.md)
 
 ## Processes
 - [Hypotheses](processes/Hypotheses.md)
